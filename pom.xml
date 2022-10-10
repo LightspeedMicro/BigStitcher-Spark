@@ -246,9 +246,6 @@
 							</filters>
 							<!-- Additional configuration. -->
                             <artifactSet>
-                                <excludes>
-                                    <exclude>*jackson*</exclude>
-                                </excludes>
                             </artifactSet>
                             <relocations>
 								<relocation>
